@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.steamusercontent.com/ugc/915827812512361148/145F05F07688343C72E4C073AE65F2A503001C60/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="1500" height ="900">
+  <img src="https://images.steamusercontent.com/ugc/915827812512361148/145F05F07688343C72E4C073AE65F2A503001C60/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="1500" height ="700">
 </p>
 
 
